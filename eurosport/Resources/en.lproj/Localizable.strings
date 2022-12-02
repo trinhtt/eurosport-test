@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  eurosport
+
+  Created by Thanh on 02/12/2022.
+  
+*/
+
+"featured" = "Featured";
+"home_cell_subtitle" = "By %@ - %@";
+"home_video_views" = "%i views";
+"error" = "Error";
+"retry" = "Retry";

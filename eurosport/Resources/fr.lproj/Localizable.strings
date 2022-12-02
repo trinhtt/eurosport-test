@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  eurosport
+
+  Created by Thanh on 02/12/2022.
+  
+*/
+
+"featured" = "En vedette";
+"home_cell_subtitle" = "Par %@ - %@";
+"home_video_views" = "%i vues";
+"error" = "Erreur";
+"retry" = "Réessayer";

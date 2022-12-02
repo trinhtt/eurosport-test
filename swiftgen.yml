@@ -1,0 +1,16 @@
+input_dir: ./eurosport/Resources/
+output_dir: ./eurosport/Generated/
+
+strings:
+  inputs: en.lproj
+  outputs:
+    - templateName: structured-swift5
+      output: Strings.swift
+      
+xcassets:
+  inputs:
+    - Images.xcassets
+    - Colors.xcassets
+  outputs:
+    - templateName: swift5
+      output: Assets.swift
